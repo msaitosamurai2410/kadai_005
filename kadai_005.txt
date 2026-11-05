@@ -8,7 +8,3 @@ git commit -m "一回目のコミット"
 echo "こんにちは、世界！" >> hello_world.txt
 git add hello_world.txt
 git commit -m "2回目のコミット"
-git log --oneline
-git log -p hello_world.txt
-cd ..
-mkdir kadai_005
